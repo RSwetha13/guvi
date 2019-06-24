@@ -1,8 +1,8 @@
 num=int(input("enter any number"))
 k=num%2
 if k==0:
-  print(num,"is even")
+  print(num,"is Even")
 elif k==1:
-  print(num,"is odd")
+  print(num,"is Odd")
 else:
-  print("invalid number")
+  print("Invalid number")
