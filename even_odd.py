@@ -5,4 +5,4 @@ if k==0:
 elif k==1:
   print(num,"is Odd")
 else:
-  print("Invalid number")
+  print("invalid number")
