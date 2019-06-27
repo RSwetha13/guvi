@@ -1,0 +1,12 @@
+num=int(input())
+g=num
+k=0
+while(num>0):
+  var=num%10
+  num=num//10
+  var1=var**3
+  k=k+var1
+if(g==k):
+  print("yes")
+else:
+  print("no")
