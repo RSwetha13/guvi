@@ -1,4 +1,4 @@
-p=int(input())
+m=int(input())
 for i in range(1,6):
-  k=p*i
-  print(k)
+  k=m*i
+  print(k,end=" ")
