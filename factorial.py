@@ -1,5 +1,5 @@
-num=int(input())
-fact=1
-for i in range(1,num+1):
-  fact=fact*i
-print(fact)
+num_1 = int(input())
+factori = 1
+for i in range(1,num_1+1):
+  factori = factori*i
+print(factori)
